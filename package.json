@@ -12,7 +12,7 @@
   "main": "./lib/index",
   "dependencies": {
     "debug": "2.1.3",
-    "engine.io-client": "juancancela/engine.io-client#1.5.4a",
+    "engine.io-client": "AnyPresence/engine.io-client#1.5.4a",
     "component-bind": "1.0.0",
     "component-emitter": "1.2.0",
     "object-component": "0.0.3",
